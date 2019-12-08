@@ -28,6 +28,7 @@
     ]
   },
   "devDependencies": {
-    "tachyons": "4.11.1"
+    "tachyons": "4.11.1",
+    "serialize-javascript": "2.1.1"
   }
 }
